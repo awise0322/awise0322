@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 🎮
 -->
 - 🔭 I’m currently working on websites for Young Living
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Svelte 5, React, TS, JS, Vue, and much more!
 - - 💬 Ask me about my puppy 
 - ⚡ Fun fact: I love any and all types of **board games**
